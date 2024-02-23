@@ -1,9 +1,13 @@
 👋 Olá, eu sou o Bruno,
 
-<!---
-ogiansouza/ogiansouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Estudante de programaçao, cursando Analise e Desenvolvimento de Sistemas pela Universidade Positivo. 
+
+- Experiência com automaçoes em Python, criaçao de dashboards. 
+- Conhecimento em React.js, Vue.js, Node.js, SQL e API REST
+- Noções de Docker
+
+
+
 
 <div align="center">
   <a href="https://github.com/brunobahri">
