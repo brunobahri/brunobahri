@@ -2,9 +2,11 @@
 
 Estudante de programaçao, cursando Analise e Desenvolvimento de Sistemas pela Universidade Positivo. 
 
-- Experiência com automaçoes em Python, criaçao de dashboards. 
-- Conhecimento em React.js, Vue.js, Node.js, SQL e API REST
-- Noções de Docker
+- Experiência com automaçoes em Python, criação de APIs com Python e criação de Dashboards.
+- Breve experiência em analise de dados e machine learning e SQL.
+- Conhecimento em Front-end com React.js, Angular e Laravel
+- Conhecimento em Docker, Node.js, C, C++ e Java
+- Noções de Assembly e Rust. 
 
 
 
