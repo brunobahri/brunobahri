@@ -1,6 +1,6 @@
 👋 Olá, eu sou o Bruno,
 
-Estudante de programaçao, cursando Analise e Desenvolvimento de Sistemas pela Universidade Positivo. 
+Estudante de programaçao, cursando Engenharia de Software pela Universidade Positivo. 
 
 - Experiência com automaçoes em Python, criação de APIs com Python e criação de Dashboards.
 - Breve experiência em analise de dados e machine learning e SQL.
