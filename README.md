@@ -1,12 +1,12 @@
-👋 Olá, eu sou o Bruno,
+👋 Hello, I am Bruno,
 
-Estudante de programaçao, cursando Engenharia de Software pela Universidade Positivo. 
+I am a FullStack Developer currently pursuing a degree in Software Engineering at Universidade Positivo.
 
-- Experiência com automaçoes em Python, criação de APIs com Python e criação de Dashboards.
-- Breve experiência em analise de dados e machine learning e SQL.
-- Conhecimento em Front-end com React.js, Angular e Laravel
-- Conhecimento em Docker, Node.js, C, C++ e Java
-- Noções de Assembly e Rust. 
+- Experienced in Python automation, API development with Python, and dashboard creation.
+- Proficient in Front-end development, Laravel, React, and Angular.
+- Skilled in web and desktop applications using Rust, Node.js, C, C++, and Java.
+- Some experience in data analysis and machine learning, SQL, and Docker.
+- Basic knowledge of Assembly.
 
 
 
