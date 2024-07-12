@@ -2,10 +2,10 @@
 
 I am a FullStack Developer currently pursuing a degree in Software Engineering at Universidade Positivo.
 
-- Experienced in Python automation, API development, consume and manage. 
+- Experienced in CI/CD, SQL, Docker and API Rest
 - Proficient in Front-end development, Laravel, React, and Angular.
 - Skilled in web and desktop applications using Rust, Node.js, C, C++, Java and PHP.
-- Some experience in data analysis and machine learning, SQL, and Docker.
+- Some experience in data analysis and machine learning.
 - Basic knowledge of Assembly x86_64
 
 
