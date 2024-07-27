@@ -6,7 +6,7 @@ I am a FullStack Developer currently pursuing a degree in Software Engineering a
 - Proficient in Front-end development, Laravel, React, and Angular.
 - Skilled in web and desktop applications using Rust, Node.js, C, C++, Java and PHP.
 - Some experience in data analysis and machine learning.
-- Basic knowledge of Assembly x86_64
+- Basic knowledge of low level, C/C++ Assembly x86_64
 
 
 
