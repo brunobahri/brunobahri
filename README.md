@@ -1,5 +1,6 @@
 👋 Hello, I am Bruno,
 
+
 I am a FullStack Developer currently pursuing a degree in Software Engineering at Universidade Positivo.
 
 - Experienced in CI/CD, SQL, Docker and API Rest
