@@ -3,11 +3,13 @@
 
 I am a FullStack Developer currently pursuing a degree in Software Engineering at Universidade Positivo.
 
-- Experienced in CI/CD, SQL, Docker and API Rest
-- Proficient in Front-end development, Laravel, React, and Angular.
-- Skilled in web and desktop applications using Rust, Node.js, C, C++, Java and PHP.
-- Some experience in data analysis and machine learning.
-- Basic knowledge of low level, C/C++ Assembly x86_64
+- Proficient in TypeScript, JavaScript and PHP for full-stack web development
+- Experienced in Vue.js, Nuxt.js and WordPress plugin development
+- Skilled in authentication systems implementation with JWT tokens and session management
+- - Strong experience with REST API development, integration and optimization
+- - Knowledge of DevOps practices: Docker containers, CI/CD pipelines, Kubernetes and AWS services
+- Basic experience in embedded systems development with C/C++ for microcontrollers
+- Familiar with responsive design, component-based architecture and UI/UX implementation
 
 
 
