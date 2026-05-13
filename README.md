@@ -13,7 +13,7 @@ I work on private production systems where throughput, reliability, and clear ar
 - MongoDB and PostgreSQL for data modeling, querying, and performance
 - Background jobs, worker pools, queues, and high-throughput data flows
 - Observability, performance tuning, and reliability under load
-- Docker, CI/CD, Kubernetes, and cloud-native deployment practices
+- Docker and CI/CD for reliable delivery workflows
 
 ## How I Build
 
@@ -30,8 +30,6 @@ My current direction is deepening my proficiency in Go while designing backend s
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
 
 ## GitHub
