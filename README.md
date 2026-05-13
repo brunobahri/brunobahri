@@ -1,27 +1,44 @@
-👋 Hello, I am Bruno,
+# Hi, I'm Bruno
 
+Software Engineer II focused on backend engineering, Go, scalability, and concurrent systems.
 
-I am a FullStack Developer currently pursuing a degree in Software Engineering at Universidade Positivo.
+I work on private production systems where throughput, reliability, and clear architecture matter. My current focus is building scalable backend services, event-driven flows, and data-intensive systems that stay maintainable as complexity grows.
 
-- Proficient in TypeScript, JavaScript and PHP for full-stack web development
-- Experienced in Vue.js, Nuxt.js and WordPress plugin development
-- Skilled in authentication systems implementation with JWT tokens and session management
-- - Strong experience with REST API development, integration and optimization
-- - Knowledge of DevOps practices: Docker containers, CI/CD pipelines, Kubernetes and AWS services
-- Basic experience in embedded systems development with C/C++ for microcontrollers
-- Familiar with responsive design, component-based architecture and UI/UX implementation
+## Engineering Focus
 
+- Go / Golang for backend services, workers, and concurrent pipelines
+- Scalable APIs, service boundaries, and production-oriented architecture
+- Kafka-based asynchronous processing and event-driven systems
+- Redis and multilayer caching strategies
+- MongoDB and PostgreSQL for data modeling, querying, and performance
+- Background jobs, worker pools, queues, and high-throughput data flows
+- Observability, performance tuning, and reliability under load
+- Docker, CI/CD, Kubernetes, and cloud-native deployment practices
 
+## How I Build
 
+I care about systems that are simple to reason about, measurable in production, and resilient under pressure. I like pragmatic architecture, explicit contracts, and concurrency patterns that solve real bottlenecks instead of adding accidental complexity.
+
+My current direction is deepening my proficiency in Go while designing backend systems around scalability, latency, fault tolerance, caching, and efficient data access.
+
+## Stack
+
+<div>
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+</div>
+
+## GitHub
 
 <div align="center">
   <a href="https://github.com/brunobahri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobahri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobahri&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt=-Js" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
-  <img align="center" alt="Ts" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobahri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobahri&layout=compact&langs_count=7&theme=dracula">
+  </a>
 </div>
