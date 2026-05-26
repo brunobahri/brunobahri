@@ -32,11 +32,4 @@ My current direction is deepening my proficiency in Go while designing backend s
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
-## GitHub
 
-<div align="center">
-  <a href="https://github.com/brunobahri">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobahri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobahri&layout=compact&langs_count=7&theme=dracula">
-  </a>
-</div>
